@@ -1,0 +1,8 @@
+.DS_Store
+.depcache.json
+.directory
+dist
+build
+node_modules
+bower_components
+**.mo
